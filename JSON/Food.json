@@ -1,7 +1,7 @@
 [
     {
         "Name": "Apple",
-        "PictureUri": "",
+        "PictureUri": "https://github.com/Kuehne-IT/FitGesund/blob/main/Pictures/Apple.png?raw=true",
         "Weight": 100,
         "Calories": 100,
         "Fat":  99,
@@ -14,7 +14,7 @@
     },
     {
         "Name": "Apple2",
-        "PictureUri": "",
+        "PictureUri": "https://github.com/Kuehne-IT/FitGesund/blob/main/Pictures/Apple.png?raw=true",
         "Weight": 100,
         "Calories": 100,
         "Fat":  99,
@@ -27,7 +27,7 @@
     },
     {
         "Name": "Apple3",
-        "PictureUri": "",
+        "PictureUri": "https://github.com/Kuehne-IT/FitGesund/blob/main/Pictures/Apple.png?raw=true",
         "Weight": 100,
         "Calories": 100,
         "Fat":  99,
@@ -40,7 +40,7 @@
     },
     {
         "Name": "Apple4",
-        "PictureUri": "",
+        "PictureUri": "https://github.com/Kuehne-IT/FitGesund/blob/main/Pictures/Apple.png?raw=true",
         "Weight": 100,
         "Calories": 100,
         "Fat":  99,
