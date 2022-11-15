@@ -63,5 +63,18 @@
         "Cholesterol": 44,
         "Description": "This is an apple",
         "Tipps": "Eat one a day keeps the doctor away"
+    },
+    {
+        "Name": "Apple6",
+        "PictureUri": "https://github.com/Kuehne-IT/FitGesund/blob/main/Pictures/Apple.png?raw=true",
+        "Weight": 100,
+        "Calories": 100,
+        "Fat":  99,
+        "Protein": 88,
+        "Carbohydrates": 900,
+        "Fibre": 55,
+        "Cholesterol": 44,
+        "Description": "This is an apple",
+        "Tipps": "Eat one a day keeps the doctor away"
     }
 ]
